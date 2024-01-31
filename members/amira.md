@@ -26,8 +26,10 @@ these areas with enthusiasm, I haven't taken any of them to a professional
 level.
 
 I am simply👇
+
 > ![1](1.png)
 
 **But now I'm all in for coding** **It's my chosen path, and I'm excited to see
 where it takes me!** Looking forward to transforming this soon to 👇👇
->![2](2.png)
+
+> ![2](2.png)
