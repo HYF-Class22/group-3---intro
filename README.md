@@ -1,10 +1,10 @@
-# Welcome to Group :three:
+# Welcome to Group :three
 
 ---
 
 ## Hi! :wave: We are Group 3, and we're excited to start this coding journey together🔭
 
-### :point_down: Let's take a moment to introduce ourselves :point_down:
+### :point_down: Let's take a moment to introduce ourselves :point_down
 
 #### Group 3 Members
 
