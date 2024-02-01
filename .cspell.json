@@ -1,12 +1,13 @@
 {
   "language": "en",
   "words": [
-    "HackYourFutureBelgium",
-    "HackYourFuture",
-    "Nepo",
     "Amira",
+    "Aydinturk",
     "Betül",
-    "Lishan"
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Lishan",
+    "Nepo"
   ],
   "ignorePaths": [
     "node_modules/**",
