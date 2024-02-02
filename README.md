@@ -18,7 +18,15 @@
   **Expectations**: Hoping to build a solid foundation in full-stack
   development.
 
-- Betül
+- [Betül](members/betul.md)
+
+  **Background**: I'm fullstack web developer.I worked for 2 years in Turkey but
+  I haven't worked for 1.5 years.
+
+  **Coding Journey**: I have learnt C# programming language for backend.Now I'm
+  learning new languages.
+
+  **Expectations**: I hope to reach a good level in coding and improving myself.
 
 - Lishan
 
